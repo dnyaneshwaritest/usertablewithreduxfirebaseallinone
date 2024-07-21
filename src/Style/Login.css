@@ -1,0 +1,12 @@
+.login-form{
+    width: 70%;
+}
+.login-card{
+    width: 50%;
+}
+.login-btn{
+    margin-top: 5%;
+    margin-left: 60%;
+    background-color: rgb(39, 39, 135);
+    color: white;
+}

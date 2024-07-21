@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "name": "P1",
+        "disabled":true,
+        "children":[
+            {
+                "id":2,
+                "name":"C1 ",
+                "disabled": false,
+                "children":[
+                    {
+                        "id":3,
+                        "name":"GC1",
+                        "disabled": true,
+                        "children":[]
+
+                    },
+                    {
+                        "id":4,
+                        "name":"GC2 ",
+                        "disabled": false,
+                        "children":[]
+                       
+                    },
+                    {
+                        "id":5,
+                        "name": "GC3",
+                        "disabled": false,
+                        "children":[]
+                    }
+                ]
+            },
+            {
+                "id":17,
+                "name":"C2 ",
+                "disabled": false,
+                "children":[
+                    {
+                        "id":18,
+                        "name":"GC1",
+                        "disabled": true,
+                        "children":[]
+
+                    },
+                    {
+                        "id":19,
+                        "name":"GC2 ",
+                        "disabled": false,
+                        "children":[]
+                       
+                    },
+                    {
+                        "id":20,
+                        "name": "GC3",
+                        "disabled": false,
+                        "children":[]
+                    }
+                ]
+            }
+
+        ]
+      
+    },
+    {
+        "id":6,
+        "name": "P2",
+        "children":[
+            {
+                "id":7,
+                "name":"C3",
+                "children":[
+                    {
+                        "id":8,
+                        "name":"GC1"
+
+                    },
+                    {
+                        "id":9,
+                        "name":"GC2"
+                    },
+                    {
+                        "id":11,
+                        "name": "GC3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":12,
+        "name": "P3",
+        "children":[
+            {
+                "id":13,
+                "name":"C4",
+                "children":[
+                    {
+                        "id":14,
+                        "name":"GC1",
+                        "children":[
+                            {
+                                "id":21,
+                                "name": "GGC1"
+
+                            }
+                        ]
+
+                    },
+                    {
+                        "id":15,
+                        "name":"GC2"
+                    },
+                    {
+                        "id":16,
+                        "name": "GC3"
+                    }
+                ]
+            }
+        ]
+    }
+]

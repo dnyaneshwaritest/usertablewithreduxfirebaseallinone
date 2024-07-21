@@ -1,0 +1,46 @@
+.cstm-table{
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 2%;
+    padding: 5px;
+    border-collapse: collapse;
+   
+}
+.table-dropdown{
+    margin: 1%;
+    margin-left: 2%;
+   
+}
+.dropdown-lbl{
+ margin-right: 1%;   
+}
+.table-pagination{
+margin-left: 35%;
+}
+.model{
+    background-color: rgb(94, 174, 174);
+    width: 300px;
+    /* height: 200px; */
+    text-align: center;
+    padding: 5%;
+    margin-left: 3%;
+    border-radius: 10px;
+    margin-top: -20%;
+   position: relative;
+}
+
+.model-btn{
+    margin-left: 10px;
+}
+.column-dropdown{
+    border: 1px solid grey;
+    width: 120px;
+    margin-left: 14.7%;   
+    font-size: 13px; 
+    margin-top: 2px;
+}
+.select-dropdn{
+    border: 1px solid gray;
+    padding: 2px;
+    font-size: 14px;
+}
